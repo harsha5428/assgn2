@@ -1,4 +1,4 @@
-
+#Import necessary modules
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -138,7 +138,8 @@ def heat_map():
      """
     
     Generates a heatmap of the correlation between select indicators for India.
-    
+    Returns:
+    None
     
     """
     # Group the data by country name
