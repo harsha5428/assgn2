@@ -135,7 +135,7 @@ bar_plot(data_read, "Cereal yield (kg per hectare)")
 
 
 def heat_map():
-     """
+    """
     
     Generates a heatmap of the correlation between select indicators for India.
     Returns:
